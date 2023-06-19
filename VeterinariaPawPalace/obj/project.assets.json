@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Matias\\.nuget\\packages\\": {}
+    "C:\\Users\\matib\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal\\Documents\\IDE\\VeterinariaPawPalace\\VeterinariaPawPalace\\VeterinariaPawPalace.csproj",
+      "projectUniqueName": "C:\\NET\\TP Integrador\\VeterinariaPawPalace\\VeterinariaPawPalace\\VeterinariaPawPalace.csproj",
       "projectName": "VeterinariaPawPalace",
-      "projectPath": "D:\\Personal\\Documents\\IDE\\VeterinariaPawPalace\\VeterinariaPawPalace\\VeterinariaPawPalace.csproj",
-      "packagesPath": "C:\\Users\\Matias\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal\\Documents\\IDE\\VeterinariaPawPalace\\VeterinariaPawPalace\\obj\\",
+      "projectPath": "C:\\NET\\TP Integrador\\VeterinariaPawPalace\\VeterinariaPawPalace\\VeterinariaPawPalace.csproj",
+      "packagesPath": "C:\\Users\\matib\\.nuget\\packages\\",
+      "outputPath": "C:\\NET\\TP Integrador\\VeterinariaPawPalace\\VeterinariaPawPalace\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Matias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\matib\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Personal\\Documents\\IDE\\VeterinariaPawPalace\\Clases\\Clases.csproj": {
-              "projectPath": "D:\\Personal\\Documents\\IDE\\VeterinariaPawPalace\\Clases\\Clases.csproj"
+            "C:\\NET\\TP Integrador\\VeterinariaPawPalace\\Clases\\Clases.csproj": {
+              "projectPath": "C:\\NET\\TP Integrador\\VeterinariaPawPalace\\Clases\\Clases.csproj"
             }
           }
         }
@@ -84,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
