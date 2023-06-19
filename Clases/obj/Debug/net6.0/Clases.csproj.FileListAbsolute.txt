@@ -1,0 +1,12 @@
+D:\Personal\Documents\IDE\VeterinariaPawPalace\Clases\bin\Debug\net6.0\Clases.deps.json
+D:\Personal\Documents\IDE\VeterinariaPawPalace\Clases\bin\Debug\net6.0\Clases.dll
+D:\Personal\Documents\IDE\VeterinariaPawPalace\Clases\bin\Debug\net6.0\Clases.pdb
+D:\Personal\Documents\IDE\VeterinariaPawPalace\Clases\obj\Debug\net6.0\Clases.csproj.AssemblyReference.cache
+D:\Personal\Documents\IDE\VeterinariaPawPalace\Clases\obj\Debug\net6.0\Clases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Documents\IDE\VeterinariaPawPalace\Clases\obj\Debug\net6.0\Clases.AssemblyInfoInputs.cache
+D:\Personal\Documents\IDE\VeterinariaPawPalace\Clases\obj\Debug\net6.0\Clases.AssemblyInfo.cs
+D:\Personal\Documents\IDE\VeterinariaPawPalace\Clases\obj\Debug\net6.0\Clases.csproj.CoreCompileInputs.cache
+D:\Personal\Documents\IDE\VeterinariaPawPalace\Clases\obj\Debug\net6.0\Clases.dll
+D:\Personal\Documents\IDE\VeterinariaPawPalace\Clases\obj\Debug\net6.0\refint\Clases.dll
+D:\Personal\Documents\IDE\VeterinariaPawPalace\Clases\obj\Debug\net6.0\Clases.pdb
+D:\Personal\Documents\IDE\VeterinariaPawPalace\Clases\obj\Debug\net6.0\ref\Clases.dll
