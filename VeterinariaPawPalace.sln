@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeterinariaPawPalace", "VeterinariaPawPalace\VeterinariaPawPalace.csproj", "{DEEEABE6-E1BB-489D-8780-8A8B970BFA26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VeterinariaPawPalace", "VeterinariaPawPalace\VeterinariaPawPalace.csproj", "{DEEEABE6-E1BB-489D-8780-8A8B970BFA26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csproj", "{84D523FD-2B04-4C5A-AC1C-5E3E9FAEB934}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades", "Clases\Entidades.csproj", "{84D523FD-2B04-4C5A-AC1C-5E3E9FAEB934}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

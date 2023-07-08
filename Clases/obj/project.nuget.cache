@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3TiBvQS/sZK/xyu4At+oyGkU6q7QnrjP7to4uZZ+i6+OV7t96c+9O+eEPPangJZMNOay7WbSi/fcNp1rm/+j4g==",
+  "dgSpecHash": "J/uhJodtjeMdsGnA+j2NNlLNH2OY8qGy81TLFfV34WgxwpC/tF0IkQKZmLb2iycWR+Ftj7gjcgBFPMcOm6ie4A==",
   "success": true,
-  "projectFilePath": "C:\\NET\\TP Integrador\\VeterinariaPawPalace\\Clases\\Clases.csproj",
+  "projectFilePath": "C:\\NET\\TP Integrador\\VeterinariaPawPalace\\Clases\\Entidades.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

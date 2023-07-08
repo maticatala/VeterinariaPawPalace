@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "Clases/1.0.0": {
+      "Entidades/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Clases.dll": {}
+          "bin/placeholder/Entidades.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Clases.dll": {}
+          "bin/placeholder/Entidades.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Clases/1.0.0": {
+    "Entidades/1.0.0": {
       "type": "project",
-      "path": "../Clases/Clases.csproj",
-      "msbuildProject": "../Clases/Clases.csproj"
+      "path": "../Clases/Entidades.csproj",
+      "msbuildProject": "../Clases/Entidades.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Clases >= 1.0.0"
+      "Entidades >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\NET\\TP Integrador\\VeterinariaPawPalace\\Clases\\Clases.csproj": {
-              "projectPath": "C:\\NET\\TP Integrador\\VeterinariaPawPalace\\Clases\\Clases.csproj"
+            "C:\\NET\\TP Integrador\\VeterinariaPawPalace\\Clases\\Entidades.csproj": {
+              "projectPath": "C:\\NET\\TP Integrador\\VeterinariaPawPalace\\Clases\\Entidades.csproj"
             }
           }
         }
@@ -84,7 +84,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

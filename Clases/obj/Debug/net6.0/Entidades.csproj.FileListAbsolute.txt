@@ -1,0 +1,12 @@
+C:\NET\TP Integrador\VeterinariaPawPalace\Clases\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+C:\NET\TP Integrador\VeterinariaPawPalace\Clases\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET\TP Integrador\VeterinariaPawPalace\Clases\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\NET\TP Integrador\VeterinariaPawPalace\Clases\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\NET\TP Integrador\VeterinariaPawPalace\Clases\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\NET\TP Integrador\VeterinariaPawPalace\Clases\bin\Debug\net6.0\Entidades.deps.json
+C:\NET\TP Integrador\VeterinariaPawPalace\Clases\bin\Debug\net6.0\Entidades.dll
+C:\NET\TP Integrador\VeterinariaPawPalace\Clases\bin\Debug\net6.0\Entidades.pdb
+C:\NET\TP Integrador\VeterinariaPawPalace\Clases\obj\Debug\net6.0\Entidades.dll
+C:\NET\TP Integrador\VeterinariaPawPalace\Clases\obj\Debug\net6.0\refint\Entidades.dll
+C:\NET\TP Integrador\VeterinariaPawPalace\Clases\obj\Debug\net6.0\Entidades.pdb
+C:\NET\TP Integrador\VeterinariaPawPalace\Clases\obj\Debug\net6.0\ref\Entidades.dll

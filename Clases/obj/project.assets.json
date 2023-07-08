@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NET\\TP Integrador\\VeterinariaPawPalace\\Clases\\Clases.csproj",
-      "projectName": "Clases",
-      "projectPath": "C:\\NET\\TP Integrador\\VeterinariaPawPalace\\Clases\\Clases.csproj",
+      "projectUniqueName": "C:\\NET\\TP Integrador\\VeterinariaPawPalace\\Clases\\Entidades.csproj",
+      "projectName": "Entidades",
+      "projectPath": "C:\\NET\\TP Integrador\\VeterinariaPawPalace\\Clases\\Entidades.csproj",
       "packagesPath": "C:\\Users\\matib\\.nuget\\packages\\",
       "outputPath": "C:\\NET\\TP Integrador\\VeterinariaPawPalace\\Clases\\obj\\",
       "projectStyle": "PackageReference",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
